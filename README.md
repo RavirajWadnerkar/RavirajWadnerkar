@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   - 🔭 I’m currently working on my Backend skills <br>
   - 🌱 I’m currently learning PHP <br>
   - 💬 Ask me about anything! I'm happy to help😄 <br>
-  - 📫 How to reach me: ravirajwadnerkar@gmail.com <br>
+  - 📫 How to reach me: [Mail](ravirajwadnerkar@gmail.com) <br>
   - ⚡ Fun fact: I can sleep all day and work all night!:grin:
  </samp>
 </p>
