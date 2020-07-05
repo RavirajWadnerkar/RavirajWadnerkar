@@ -14,10 +14,11 @@ Here are some ideas to get you started:
   - 👯 I’m looking to collaborate on Open Source Organizations <br>
   - 🤔 I’m looking for help with Server Side Applications <br>
   - 🔭 I’m currently working on my Backend skills <br>
-  - 🌱 I’m currently learning PHP <br>
-  - 💬 Ask me about anything! I'm happy to help😄 <br>
+  - 🌱 I’m currently learning PHP and SQL<br>
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/raviraj-wadnerkar-a96059170">LinkedIn</a> <br>
-  - ⚡ Fun fact: I can sleep all day and work all night!:grin:
+  - 💬 Ask me about anything! I'm happy to help😄 <br>
+  - ⚡ Fun fact: I can sleep all day and work all night!:grin:<br>
+  -:sparkles: I am always there to jump into Hackathons. If u got one, count me in:wink:
  </samp>
 </p>
 <p align="center">
