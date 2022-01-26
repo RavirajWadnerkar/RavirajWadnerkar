@@ -11,10 +11,10 @@ Here are some ideas to get you started:
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
  <br><br>
  <samp>
-  - 👯 I’m looking to collaborate on Open Source Organizations <br>
+  - 👯 I’m happy to collaborate on Open Source Organizations <br>
   - 🤔 I’m looking for help with Server Side Applications <br>
-  - 🔭 I’m currently working on my Backend skills <br>
-  - 🌱 I’m currently learning PHP and SQL<br>
+  - 🔭 I’m currently working on new technologies <br>
+  - 🌱 I’m currently learning ML<br>
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/raviraj-wadnerkar-a96059170">LinkedIn</a> <br>
   - 💬 Ask me about anything! I'm happy to help😄 <br>
   - ⚡ Fun fact: I can sleep all day and work all night!:grin:<br>
