@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <br><br>
  <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
  <samp>
-  <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/RavirajWadnerk1">Twitter</a>
+  <br><br>:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/RavirajWadnerk1">Twitter</a> or <a href="https://www.linkedin.com/in/raviraj-wadnerkar">LinkedIn</a>
  </samp>
 </p>
 
