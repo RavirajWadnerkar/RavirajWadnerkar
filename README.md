@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   - 👯 I’m happy to collaborate on Open Source Organizations <br>
   - 🤔 I’m looking for help with Server Side Applications <br>
   - 🔭 I’m currently working on new technologies <br>
-  - 🌱 I’m currently learning ML<br>
+  - 🌱 I’m currently doing DSA<br>
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/raviraj-wadnerkar">LinkedIn</a> <br>
   - 💬 Ask me about anything! I'm happy to help😄 <br>
   - ⚡ Fun fact: I can sleep all day and work all night!:grin:<br>
