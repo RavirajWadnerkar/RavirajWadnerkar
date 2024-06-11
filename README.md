@@ -16,9 +16,9 @@ Here are some ideas to get you started:
   - 🔭 I’m currently working on new technologies <br>
   - 🌱 I’m currently doing DSA<br>
   - 📫 How to reach me: <a href="https://www.linkedin.com/in/raviraj-wadnerkar">LinkedIn</a> <br>
-  - 💬 Ask me about anything! I'm happy to help😄 <br>
-  - ⚡ Fun fact: I can sleep all day and work all night!:grin:<br>
-  -:sparkles: I am always there to jump into Hackathons. If u got one, count me in:wink:
+  - 💬 Ask me anything! I'm happy to help 😄 <br>
+  - ⚡ Fun fact: I can sleep all day and work all night! 😁<br>
+  - ✨ I am always there to jump into Hackathons. If you got one, count me in 😉
  </samp>
 </p>
 <p align="center">
